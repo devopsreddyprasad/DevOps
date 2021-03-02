@@ -1,0 +1,11 @@
+# module.kafka.aws_msk_configuration.config[0] will be created
+  + resource "aws_msk_configuration" "config" {
+      + arn             = (known after apply)
+      + description     = "Manages an Amazon Managed Streaming for Kafka configuration"
+      + id              = (known after apply)
+      + kafka_versions  = [
+          + "2.4.1.1",
+        ]
+      + latest_revision = (known after apply)
+      + name            = "eg-ue2-test-msk-test-1309"
+    }
