@@ -1,6 +1,6 @@
 this is demo code for devops learning
 
-
+my chages adding
 # module.kafka.aws_msk_configuration.config[0] will be created
   + resource "aws_msk_configuration" "config" {
       + arn             = (known after apply)
